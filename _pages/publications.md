@@ -14,6 +14,12 @@ Winkler I., __Brandl S.__, Horn F., Waldburger E., Allefeld C., Tangermann M.,
 [Robust artifactual independent component classification for BCI practitioners.](https://iopscience.iop.org/article/10.1088/1741-2560/11/3/035013/pdf)  
 Journal of Neural Engineering, 11 035013, 2014.
 
+## Preprints
+
+__Brandl S.__, Lassner D., Alber M.,  
+[Balancing the composition of word embeddings across heterogenous data sets.](https://arxiv.org/abs/2001.04693)  
+arXiv (uploaded 14 Jan 2020)
+
 ## Conference contributions
 
 __Brandl S.__, Lassner D.  
