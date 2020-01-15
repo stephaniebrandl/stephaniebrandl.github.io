@@ -12,7 +12,7 @@ redirect_from:
 
 ## Education
 * Diplom (MSc.) in Mathematics, HU Berlin, 2015 (master thesis 1,0/A+)
-* Ph.D in Machine Learning, TU Berlin, 2020 (expected)
+* PhD student in Machine Learning, TU Berlin (expected to finish 2020)
 
 ## Academic Employment
 * 10/2019 - present: Research fellow in the machine learning group at TU Berlin
