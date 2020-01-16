@@ -16,5 +16,4 @@ I still enjoy travelling the world and getting to know different cultures by sta
 
 I am currently in my final year as a PhD student in the [machine learning group at TU Berlin](https://www.ml.tu-berlin.de/menue/machine_learning/). My main research interest at the moment is natural language processing, more specifically I am interested in dynamic language change and how to handle bias in data/algorithms.
 
-You can download my full academic CV [here](../files/fullCV_SB.pdf)
-{: .notice}
+> You can download my full academic CV [here](../files/fullCV_SB.pdf)
