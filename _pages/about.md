@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-> You can download my full academic CV [here](../files/fullCV_SB.pdf)  
+```You can download my full academic CV [here](../files/fullCV_SB.pdf)```  
 
 I grew up in [southwestern Germany](https://www.suedpfalz-tourismus.de/startseite.html?no_cache=1) at the border to France where the weather is good and people like to drink local wine out of [funny-looking glasses](https://de.wikipedia.org/wiki/Dubbeglas) while chatting and eating [tarte flambée](https://en.wikipedia.org/wiki/Flammekueche).  
 
