@@ -35,9 +35,10 @@ for various courses in the field of machine learning.
 
 
 ## Volunteering 
+* 2017 - present: Amnesty Int., Berlin, Germany 
+    * Speaker of the asylum group and legal counselling for refugees.  
+* 2015 AIESEC, Medellín, Colombia
+    * International and cultural afternoon program for children.  
 * 2014 - 2016: Kotti Paten, Berlin, Germany
     * Godparent program for kids in the neighborhood.
-* 2015 AIESEC, Medellín, Colombia
-    * International and cultural afternoon program for children.
-* 2017 - present: Amnesty Int., Berlin, Germany 
-    * Speaker of the asylum group and legal counselling for refugees.
+
