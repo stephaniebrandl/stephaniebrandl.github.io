@@ -8,7 +8,8 @@ permalink: /publications/
 
 __Brandl S.__, Frøhlich L., Höhne J., Müller K.-R., Samek W.,  
 [Brain-computer interfacing under distraction: an evaluation study.](../files/JNE16.pdf)  
-Journal of Neural Engineering, 13 056012, 2016.
+Journal of Neural Engineering, 13 056012, 2016.  
+[Data](https://depositonce.tu-berlin.de/handle/11303/10934) [Code](https://github.com/stephaniebrandl/bci-under-distraction)  
 
 Winkler I., __Brandl S.__, Horn F., Waldburger E., Allefeld C., Tangermann M.,  
 [Robust artifactual independent component classification for BCI practitioners.](https://iopscience.iop.org/article/10.1088/1741-2560/11/3/035013/pdf)  
