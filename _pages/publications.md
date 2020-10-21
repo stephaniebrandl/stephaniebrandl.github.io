@@ -4,7 +4,12 @@ layout: archive
 permalink: /publications/
 ---
 
-## Publications in peer-reviewed journals
+## Publications in peer-reviewed journals  
+
+__Brandl S.__, Blankertz B.,  
+[Motor Imagery Under Distraction— An Open Access BCI Dataset](../files/Frontiers2020.pdf)  
+Frontiers in Neuroscience, 14 967, 2020.  
+[Data](https://depositonce.tu-berlin.de/handle/11303/10934.2), [Code](https://github.com/stephaniebrandl/bci-under-distraction)  
 
 __Brandl S.__, Frøhlich L., Höhne J., Müller K.-R., Samek W.,  
 [Brain-computer interfacing under distraction: an evaluation study.](../files/JNE16.pdf)  
