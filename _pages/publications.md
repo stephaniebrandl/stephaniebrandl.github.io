@@ -22,6 +22,11 @@ Journal of Neural Engineering, 11 035013, 2014.
 
 ## Preprints
 
+__Brandl S.__, Haumann N.T., Radloff S., Dähne S., Bonetti L., Vuust P., Brattico E., Grube M.  
+[Fourier SPoC: A customised machine-learning analysis pipeline for auditory beat-based entrainment in the MEG](https://doi.org/10.1101/2021.04.23.441088)  
+bioRxiv 2021.04.23.441088 
+
+
 __Brandl S.__, Lassner D.  
 [Early Corona Twitter Dataset](https://hal.archives-ouvertes.fr/hal-02861167/document)  
 HAL (uploaded 6 June 2020)  
