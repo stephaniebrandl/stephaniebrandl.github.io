@@ -1,3 +1,52 @@
+@article{chalkidis2025identifying,
+  title={Identifying Fine-grained Forms of Populism in Political Discourse: A Case Study on Donald Trump's Presidential Campaigns},
+  author={Chalkidis, I. and Brandl, S. and Aslanidis, P.},
+  journal={arXiv preprint arXiv:2507.19303},
+  year={2025},
+  abbr={preprint},
+  url={https://arxiv.org/abs/2507.19303},
+  TLDR={https://bsky.app/profile/stephaniebrandl.bsky.social/post/3lvkv7ajjoc2e},
+  abstract={Large Language Models (LLMs) have demonstrated remarkable capabilities across a wide range of instruction-following tasks, yet their grasp of nuanced social science concepts remains underexplored. This paper examines whether LLMs can identify and classify fine-grained forms of populism, a complex and contested concept in both academic and media debates. To this end, we curate and release novel datasets specifically designed to capture populist discourse. We evaluate a range of pre-trained (large) language models, both open-weight and proprietary, across multiple prompting paradigms. Our analysis reveals notable variation in performance, highlighting the limitations of LLMs in detecting populist discourse. We find that a fine-tuned RoBERTa classifier vastly outperforms all new-era instruction-tuned LLMs, unless fine-tuned. Additionally, we apply our best-performing model to analyze campaign speeches by Donald Trump, extracting valuable insights into his strategic use of populist rhetoric. Finally, we assess the generalizability of these models by benchmarking them on campaign speeches by European politicians, offering a lens into cross-context transferability in political discourse analysis. In this setting, we find that instruction-tuned LLMs exhibit greater robustness on out-of-domain data.},
+  pdf={https://arxiv.org/pdf/2507.19303},
+  code={https://github.com/iliaschalkidis/populism-llms},
+  selected={true}
+}
+
+@article{dhar2025evaluation,
+  title={Evaluation Reporting in AI Model Releases should be Standardized},
+  author={Dhar, R. and Sanchez Villegas, D.  and Karamolegkou, A. and Schiavone, A. and Yuan, Y. and Chen, X. and Li, J. and Frank, S. and De Grazia, L. and Swain, M. and Brandl, S. and Hershcovich D. and Søgaard, A.},
+  journal={Available at SSRN 5444574},
+  year={2025},
+  abbr={preprint},
+  abstract={As AI models become popular as everyday tools, transparent and accessible evaluation reporting is critical, not just for researchers but for all individuals impacted by such models. Yet current practices fall short: evaluations often lack key details, are scattered across multiple sources, and have limited usability. This position paper argues that standardized evaluation reports should be required at the point of model release to support transparency and informed use. We propose Evaluation Disclosure Cards (EvalCards): a lightweight, structured framework intended as a practical suggestion to make evaluation reports easy to write, easy to understand, and hard to miss. Treating evaluation reporting as a core requirement-not as a marketing exercise-is essential for responsible AI deployment.},
+}
+
+@inproceedings{dhar2025beyond,
+  title={Beyond Technocratic XAI: The Who, What \& How in Explanation Design},
+  author={Dhar, R. and Brandl, S. and Oldenburg, N. and S{\o}gaard, A.},
+  booktitle={Proceedings of the AAAI/ACM Conference on AI, Ethics, and Society},
+  volume={8},
+  number={1},
+  pages={745--759},
+  year={2025},
+  abbr={AIES},
+  abstract={The field of Explainable AI (XAI) offers a wide range of techniques for making complex models interpretable. Yet, in practice, generating meaningful explanations is a context-dependent task that requires intentional design choices to ensure accessibility and transparency. This paper reframes explanation as a situated design process—an approach particularly relevant for practitioners involved in building and deploying explainable systems. Drawing on prior research and principles from design thinking, we propose a three-part framework for explanation design in XAI: asking Who needs the explanation, What they need explained, and How that explanation should be delivered. We also emphasize the need for ethical considerations, including risks of epistemic inequality, reinforcing social inequities, and obscuring accountability and governance. By treating explanation as a sociotechnical design process, this framework encourages a context-aware approach to XAI that supports effective communication and the development of ethically responsible explanations.},
+
+}
+
+@misc{brandl2025comparingzeroshotselfexplanationshuman,
+      title={Comparing zero-shot self-explanations with human rationales in text classification},
+      author={Brandl S. and Eberle O.},
+      year={2025},
+      eprint={2410.03296},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2410.03296},
+      abbr={preprint},
+      abstract={Instruction-tuned LLMs are able to provide an explanation about their output to users by generating self-explanations. These do not require gradient computations or the application of possibly complex XAI methods. In this paper, we analyse whether this ability results in a good explanation. We evaluate self-explanations in the form of input rationales with respect to their plausibility to humans as well as their faithfulness to models. We study two text classification tasks: sentiment classification and forced labour detection, i.e., identifying pre-defined risk indicators of forced labour. In addition to English, we include Danish and Italian translations of the sentiment classification task and compare self-explanations to human annotations for all samples. To allow for direct comparisons, we also compute post-hoc feature attribution, i.e., layer-wise relevance propagation (LRP) and analyse 4 LLMs. We show that self-explanations align more closely with human annotations compared to LRP, while maintaining a comparable level of faithfulness. This finding suggests that self-explanations indeed provide good explanations for text classification.},
+      pdf={https://arxiv.org/pdf/2410.03296},
+}
+
 @inproceedings{brandl-etal-2024-interplay,
       title={On the Interplay between Fairness and Explainability},
       author={Brandl, S. and Bugliarello, E. and Chalkidis, I.},
@@ -24,6 +73,7 @@
       year = {2024},
       abbr={NAACL},
       selected={true},
+      url={https://aclanthology.org/2024.naacl-short.40},
       abstract={Instruction-finetuned Large Language Models inherit clear political leanings that have been shown to influence downstream task performance. We expand this line of research beyond the two-party system in the US and audit Llama Chat in the context of EU politics in various settings to analyze the model's political knowledge and its ability to reason in context. We adapt, i.e., further fine-tune, Llama Chat on speeches of individual euro-parties from debates in the European Parliament to reevaluate its political leaning based on the EUandI questionnaire. Llama Chat shows considerable knowledge of national parties' positions and is capable of reasoning in context. The adapted, party-specific, models are substantially re-aligned towards respective positions which we see as a starting point for using chat-based LLMs as data-driven conversational engines to assist research in political science.},
       pdf={https://aclanthology.org/2024.naacl-short.40.pdf},
       tldr={https://x.com/StephanieBrandl/status/1772213802391490804?s=20},
@@ -38,7 +88,6 @@
       month = {May},
       year = {2024},
       abbr={LREC-COLING},
-      selected={true},
       abstract={Rationales in the form of manually annotated input spans usually serve as ground truth when evaluating explainability methods in NLP. They are, however, time-consuming and often biased by the annotation process. In this paper, we debate whether human gaze, in the form of webcam-based eye-tracking recordings, poses a valid alternative when evaluating importance scores. We evaluate the additional information provided by gaze data, such as total reading times, gaze entropy, and decoding accuracy with respect to human rationale annotations. We compare WebQAmGaze, a multilingual dataset for information-seeking QA, with attention and explainability-based importance scores for 4 different multilingual Transformer-based language models (mBERT, distil-mBERT, XLMR, and XLMR-L) and 3 languages (English, Spanish, and German). Our pipeline can easily be applied to other tasks and languages. Our findings suggest that gaze data offers valuable linguistic insights that could be leveraged to infer task difficulty and further show a comparable ranking of explainability methods to that of human rationales.},
       pdf={https://aclanthology.org/2024.lrec-main.580.pdf},
       tldr={https://twitter.com/StephanieBrandl/status/1763491432956858481},
